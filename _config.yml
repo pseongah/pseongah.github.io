@@ -1,6 +1,6 @@
 # Site settings
 title: PSA
-baseurl: "/psa"
+baseurl:
 url: "https://pseongah.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 

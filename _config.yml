@@ -9,7 +9,7 @@ author:
   name: Seongah Park
   desc: Hello nice to meet you
   email: ppseongah@gmail.com
-  selfie: assets/img/psa.jpg
+  selfie: /assets/img/psa.jpg
 
 # social
 social:

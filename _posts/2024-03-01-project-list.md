@@ -3,7 +3,7 @@ layout: post
 title:  "Project List"
 info: "Portfolio"
 tech:
-type: ex
+type: ☁︎
 ---
 
 Coming soon !

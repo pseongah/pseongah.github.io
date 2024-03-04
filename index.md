@@ -25,11 +25,11 @@ Here is my [<ins>CV</ins>](https://drive.google.com/file/d/1Q0aWU4LjalIVzFVxzRLv
 ## Experience
 
 - Korea Institute of Science and Technology (KIST)
-  - Research Intern (2022.02. - 2023.11.)
+  - Research Assistant (2022.02. - 2023.11.)
     - Developed PTZ camera cotrol module.
     - Developed and integrated a robot system for isolation treatment facility.
   - Research Student (2021.07. - 2021.12.)
-    - Designed, manufactured, and controlled the servo motor and motor drive board for the origami-based transformable robotic space.
+    - Manufactured, and controlled the servo motor and motor drive board for the origami-based transformable robotic space.
 
 <br/>
 
@@ -53,7 +53,7 @@ Youngsun Kwon, Soyeon Shin, Kyonmo Yang, **Seongah Park**, Soomin Shin, Hwawoo J
 3. **PopupBot, a Robotic Pop-up Space for Children: Origami-based Transformable Robotic Playhouse Recognizing Children's Intention** [(Link)](https://ieeexplore.ieee.org/abstract/document/9889439)<br>
 Sonya S. Kwak, **Seongah Park**, Dahyun Kang, Hanna Lee, Jung Hyun Yang, Yoonseob Lim, and Kahye song <br>
 *International Conference on Human-Robot Interaction (HRI) 2022* <br>
-🏆 [Best Demonstration Award](https://humanrobotinteraction.org/2022/awards/), The 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022), Demonstration Session, Sapporo, Japan, 2022.
+🏆 [<ins>_Best Demonstration Award_</ins>](https://humanrobotinteraction.org/2022/awards/), The 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022), Demonstration Session, Sapporo, Japan, 2022.
 
 
 ## Presentations

@@ -25,7 +25,7 @@ Here is my [<ins>CV</ins>](https://drive.google.com/file/d/1Q0aWU4LjalIVzFVxzRLv
 ## Experience
 
 - Korea Institute of Science and Technology (KIST)
-  - Research Assistant (2022.02. - 2023.11.)
+  - Research Intern (2022.02. - 2023.11.)
     - Developed PTZ camera cotrol module.
     - Developed and integrated a robot system for isolation treatment facility.
   - Research Student (2021.07. - 2021.12.)

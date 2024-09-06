@@ -22,6 +22,9 @@ My research goal is to advance robots to perform more complex tasks and make int
 
 ## Experience
 
+- Clobot Co., Ltd
+  - Staff (2024.07. - present)
+
 - Korea Institute of Science and Technology (KIST)
   - Research Intern (2022.02. - 2023.11.)
     - Developed PTZ camera cotrol module.

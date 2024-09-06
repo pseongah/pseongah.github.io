@@ -8,8 +8,6 @@ I am a graduate in Department of Mechanical Systems Engineering at Sookmyung Wom
 
 My research goal is to advance robots to perform more complex tasks and make intelligent decisions in various environments. My areas of interest are using reinforcement learning to identify the best robot behavior and creating a cooperative service robot system that considers user requirements.
 
-Here is my [<ins>CV</ins>](https://drive.google.com/file/d/1Q0aWU4LjalIVzFVxzRLv13FAlEphrBhT/view?usp=drive_link)
-!
 
 <br/>
 
